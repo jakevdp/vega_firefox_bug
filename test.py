@@ -6,9 +6,7 @@ html = """
 <html>
 <head>
   <title>Embedding Vega-Lite</title>
-  <script src="https://cdn.jsdelivr.net/npm/vega@5.9.2"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.2"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.2.2"></script>
 </head>
 <body>
   <div id="vis"></div>
